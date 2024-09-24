@@ -68,4 +68,6 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ```
 
 ## `💀DEVELOPER💀` 
-<a href="https://github.com/toge012345"><img src="https://github.com/toge012345.png" width="250" height="250" alt="toge012345"/></a>
+<a href="https://github.com/papaigwe"><img src="https://github.com/papaigwe.png" width="250" height="250" alt="papaigwe"/></a>
+
+```IGWE TECH power of mind```
