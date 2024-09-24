@@ -1,5 +1,5 @@
 {
-    "name": "TOGE-AI-BUG",
+    "name": "IGWE-BUG",
     "version": "2.0.0",
     "description": "WhatsApp War Bot Using Nodejs",
     "main": "index.js",
@@ -14,7 +14,7 @@
     "scripts": {
         "start": "node index.js"
     },
-    "author": "toge012345",
+    "author": "papaigwe",
     "license": "Apache-2.0",
     "dependencies": {
         "@whiskeysockets/baileys": "^6.7.5",
