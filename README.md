@@ -11,7 +11,7 @@ IGWE-BUG Multi Device is a whatsapp bot developed by <a href="https://github.com
 
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY [Here](https://github.com/papaigwe/IGWE-BUG/fork)
+- FORK THE REPOSITORY [Here](https://github.com/papaigwe/IGWE-BUG-/fork)
 
 
 #### DEPLOY TO PANEL
