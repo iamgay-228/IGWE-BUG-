@@ -2,19 +2,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "24160338758"
-global.ownername = "PAPA IGWE"
-global.ytname = "papa igwe"
+global.ownernomer = "22871677390"
+global.ownername = "LE BARON"
+global.ytname = "LE BARON"
 global.socialm = "GitHub: papaigwe"
-global.location = "Africa, Gabon, Libreville"
+global.location = "Africa,TOGO, Lomé"
 
 global.ownernumber = '24160338758'  //creator number
 global.ownername = 'PAPA IGWE' //owner name
 global.botname = 'IGWE-𝙱𝚄𝙶' //name of the bot
 
 //sticker details
-global.packname = 'IGWE-𝙱𝚄𝙶'
-global.author = 'PAPA IGWE'
+global.packname = ''
+global.author = 'LE BARON'
 
 //console view/theme
 global.themeemoji = '👾'
@@ -29,7 +29,7 @@ global.prefa = ['','!','.','#','&']
 //false=disable and true=enable
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
-global.autorecordtype = true //auto typing + recording
+global.autorecordtype = false//auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
